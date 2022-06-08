@@ -11,7 +11,7 @@ gNameChoice_Leaf:: @ 81C5762
     .string "LEAF$"
 
 gNameChoice_Fire:: @ 81C5767
-    .string "FIRE$"
+    .string "ZACH$"
 
 gNameChoice_Gary:: @ 81C576C
     .string "GARY$"
